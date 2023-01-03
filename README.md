@@ -2,8 +2,8 @@
 ESP-WROOM 32D (vscode platformio)
 
 # platformio.ini config
-[env:esp32dev]
-platform = espressif32
-board = esp32dev
-framework = arduino
-monitor_speed = 115200
+[env:esp32dev] </br>
+platform = espressif32 </br>
+board = esp32dev </br>
+framework = arduino </br>
+monitor_speed = 115200 </br>
